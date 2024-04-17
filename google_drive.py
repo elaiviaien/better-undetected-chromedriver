@@ -1,7 +1,5 @@
 import base64
 import os
-import time
-import traceback
 from typing import List
 
 from dotenv import load_dotenv
